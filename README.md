@@ -45,3 +45,16 @@ streamlit run app.py
 JP Steve Akash
 
 Aspiring Data Scientist | Machine Learning Enthusiast | Sports Analytics
+
+
+## 📸 Dashboard Preview
+
+### Match Prediction
+
+![Match Prediction](images/match_prediction.png)
+
+---
+
+### Season Simulation
+
+![Season Simulation](images/season_simulation.png)
