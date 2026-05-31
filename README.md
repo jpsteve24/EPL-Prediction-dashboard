@@ -50,11 +50,24 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Sports Analytics
 ## 📸 Dashboard Preview
 
 ### Match Prediction
-
 ![Match Prediction](images/Screenshot%20(332).png)
 
 ---
 
 ### Season Simulation
-
 ![Season Simulation](images/Screenshot%20(333).png)
+
+---
+
+### Team Comparison
+![Team Comparison](images/Screenshot%20(334).png)
+
+---
+
+### Model Insights
+![Model Insights](images/Screenshot%20(335).png)
+
+---
+
+### Dashboard Overview
+![Dashboard Overview](images/Screenshot%20(336).png)
