@@ -51,10 +51,10 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Sports Analytics
 
 ### Match Prediction
 
-![Match Prediction](images/match_prediction.png)
+![Match Prediction](Screenshot%20(332).png)
 
 ---
 
 ### Season Simulation
 
-![Season Simulation](images/season_simulation.png)
+![Season Simulation](Screenshot%20(333).png)
