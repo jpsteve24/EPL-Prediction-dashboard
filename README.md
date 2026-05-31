@@ -1,26 +1,47 @@
-# EPL Prediction Dashboard
+# ⚽ EPL Prediction Dashboard
 
-AI-powered Premier League analytics dashboard built using Machine Learning, ELO ratings, Poisson goal modeling, Monte Carlo simulations, and Streamlit.
+An AI-powered English Premier League analytics dashboard built using Python, Streamlit, ELO ratings, and Poisson distribution models.
 
-## Features
-- Match prediction engine
-- ELO rating comparison
-- Expected Goals (xG)
-- Confidence gauge meter
-- Team logos
-- Full season simulation
-- Title probability prediction
-- Top 4 probability analysis
-- Relegation risk analysis
-- Interactive visualizations
+## 🚀 Features
 
-## Tech Stack
+- Match Winner Prediction
+- ELO Rating System
+- Confidence Gauge Meter
+- Team Logos Integration
+- Full Season Simulation
+- Top 4 Prediction Chart
+- Interactive Streamlit Dashboard
+- Historical EPL Data Analysis
+
+## 🛠️ Tech Stack
+
 - Python
 - Streamlit
 - Pandas
-- Plotly
 - NumPy
+- Plotly
 - SciPy
 
-## Author
-Steve Akash
+## 📊 Machine Learning Concepts Used
+
+- ELO Rating Algorithm
+- Poisson Goal Probability Model
+- Statistical Match Simulation
+- Data Visualization
+
+## 📁 Dataset
+
+Historical EPL match datasets from multiple Premier League seasons (2015–2025).
+
+## ▶️ Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 👨‍💻 Author
+
+JP Steve Akash
+
+Aspiring Data Scientist | Machine Learning Enthusiast | Sports Analytics
